@@ -1,0 +1,12 @@
+name = Minimal
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
+; Information added by Drupal.org packaging script on 2014-03-11
+version = "7.26+20-dev"
+project = "drupal"
+datestamp = "1394548408"
+
